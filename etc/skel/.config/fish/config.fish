@@ -532,7 +532,7 @@ end
 alias undopush "git push -f origin HEAD^:master"
 
 # reporting tools - install when not installed
-neofetch
+#neofetch
 #screenfetch
 #alsi
 #paleofetch
@@ -547,6 +547,7 @@ neofetch
 #cpufetch
 #colorscript random
 #hyfetch
+fastfetch
 
 # colors to set or unset
 
@@ -582,7 +583,7 @@ set fish_color_search_match --background="#60AEFF"
 
 ### Aliases
 alias ls='eza -lhagTL2 --icons always'
-alias vim='nvim'
+#alias vim='nvim'
 
 ### Environment variables
 set -gx EDITOR vim
