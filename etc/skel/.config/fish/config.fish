@@ -593,4 +593,4 @@ set -gx TERM alacritty
 starship init fish | source
 
 ### some stuff
-colorscript -r
+#colorscript -r
